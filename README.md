@@ -14,9 +14,8 @@
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/manu-jayadharan/"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.researchgate.net/profile/Manu_Jayadharan"><img height="40px"  src="https://user-images.githubusercontent.com/35903705/97633429-792e3a80-1a0a-11eb-84d4-42cbfac54a92.png" alt="ResearchGate" /></a>&nbsp;
   <a href="mailto:manu.jayadharan@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="mailto:manu.jayadharan@gmail.com?subject=Hola%20Sumanth"><img height="35px"  src="https://user-images.githubusercontent.com/35903705/97633748-fc4f9080-1a0a-11eb-9108-2b184c3ef53c.jpg" alt="Outlook" /></a>&nbsp;
+  <a href="https://www.researchgate.net/profile/Manu_Jayadharan"><img height="40px"  src="https://user-images.githubusercontent.com/35903705/97633429-792e3a80-1a0a-11eb-84d4-42cbfac54a92.png" alt="ResearchGate" /></a>&nbsp;
 
 
 </p>
