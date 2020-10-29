@@ -26,17 +26,43 @@
 
 ## A little bit about me..  
 ---------------------
-#### I am a computational scientist with expertise in numerical analysis and scientific machine learning, living in Pittsburgh.
+- __I am a computational scientist with expertise in numerical analysis and scientific machine learning, living in Pittsburgh.__
 - 🔭  I'm currently pursuing a PHD in applied/computational Mathematics, expecting to graduate in spring 2021.
 - I have experience in developing and implementing novel algorithms to solve multiphysics CFD problems using both data-driven deep learning techniques and classical mixed finite element methods (FEM).
 - I love working on new challenging models and implementing them, while collaborating with others. 
+- Always looking for new collaborators and interesting projects. 
+#### Languages I work with: 
+- __Python__ for general purpose programming and ML software development.
+- __C++__ for high performance scientific computing and simulations.
+#### Software packages I currently use:
+- __ML/ Data Science__: Numpy, Pandas, Jupyter, Keras-Tensorflow2
+- __Visualization__: Matplotlib, ParaView, gnuplot.
+- __Scientific computing__: deal.II, FreeFem++, phoenix.
+- __My favorite editors and IDEs__: Eclipse, Jupyter notebook, Colab, Emacs.
+#### Languages and packages I used to work with: 
+- Fortran, Matlab, PyTorch, Scikit-learn
+
 <br>
+   
+## Checkout some of my recent projects:  
+---------------------
+### Machine Learning:  
+1)  __[Fluidlearn](https://github.com/mjayadharan/FluidLearn)__: A python based package to solve  flid flow PDEs using deep learning techniques. 
+2) __[Hands on practical ML projects](https://github.com/mjayadharan/ML_mini_projects)__:
+   - [Keras-TensorFlow2 based examples](https://github.com/mjayadharan/ML_mini_projects/tree/master/2_Keras:TensorFLow2)
+   - [PyTorch based examples](https://github.com/mjayadharan/ML_mini_projects/tree/master/4_PyTorch/01_MNIST_Example)
+   - [Scikit-learn based examples](https://github.com/mjayadharan/ML_mini_projects/tree/master/1_scikit-learn-projects)
+
+### High performance scientific computing:  
+1)  __[Space-time-DD](https://github.com/mjayadharan/MMMFE-ST-DD__: A C++ based fluid flow simulator using multiscale space-time domain.
+2) __[Poroelastic flow simulator](https://github.com/mjayadharan/BiotDD)__: C++ based poroelastic fluid flow simulator using MPI. 
 
 
 
 
 
-#### Thank You-🙏🏼
+
+## Thank You-🙏🏼
 
 
 
