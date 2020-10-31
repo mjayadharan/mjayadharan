@@ -56,6 +56,9 @@
 1)  __[Space-time-DD](https://github.com/mjayadharan/MMMFE-ST-DD__: A C++ based fluid flow simulator using multiscale space-time domain.
 2) __[Poroelastic flow simulator](https://github.com/mjayadharan/BiotDD)__: C++ based poroelastic fluid flow simulator using MPI. 
 
+### Other open-source contributions:
+1) __[FEM package deal.II](https://www.dealii.org/authors.html)__: Most of the HPC packages I have written uses deal.II and I am also one of the contributors to this popular open-source FEM package. 
+
 ### Recent preprint:
 1) __[Parallel computations to solve poroelastic flow](https://arxiv.org/abs/2010.15353)__: __M. Jayadharan__, E. Khattatov, I. Yotov, Domain decomposition and partitioning methods for mixed finite element discretization of the Biot system of poroelasticity, [arxiv math.NA, 2010.15353](https://arxiv.org/abs/2010.15353).
 
