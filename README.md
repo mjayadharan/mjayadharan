@@ -25,7 +25,7 @@
 
 ## A little bit about me..  
 ---------------------
-- __I am a computational scientist with expertise in numerical analysis and scientific machine learning, living in Pittsburgh.__
+- __I am a computational scientist with expertise in numerical analysis and scientific machine learning,  living in Pittsburgh. I have keen interest in Mathematical finance as well.__
 - 🔭  I'm currently pursuing a PHD in applied/computational Mathematics, expecting to graduate in spring 2021.
 - I have experience in developing and implementing novel algorithms to solve multiphysics CFD problems using both data-driven deep learning techniques and classical mixed finite element methods (FEM).
 - I love working on new challenging models and implementing them, while collaborating with others. 
@@ -33,6 +33,14 @@
 #### Languages I work with: 
 - __Python__ for general purpose programming and ML software development.
 - __C++__ for high performance scientific computing and simulations.
+#### Mathematical Skills: 
+- __Numerical Analysis__.  
+- __Math Finance and Stochastic Calculus__.  
+- __CFD__ Computational Fluid Dynamics.   
+- __HPC__ Parallel computing.  
+- __ML,DL__.  
+- __Advanced Probability, Statistics__.  
+
 #### Software packages I currently use:
 - __ML/ Data Science__: Numpy, Pandas, Jupyter, Keras-Tensorflow2
 - __Visualization__: Matplotlib, ParaView, gnuplot.
