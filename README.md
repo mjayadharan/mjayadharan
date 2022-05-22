@@ -25,9 +25,9 @@
 
 ## A little bit about me..  
 ---------------------
-- __I am a computational scientist with expertise in numerical analysis and scientific machine learning,  living in Pittsburgh. I have a keen interest in Mathematical finance as well.__
-- 🔭  I'm currently pursuing  PHD in applied/computational Mathematics, expecting to graduate in spring 2021.
+- __I am a computational scientist with expertise in numerical analysis, high performance computing and scientific machine learning. I currently work as a Quantitative Analyst for the Citigroup's Credit Quant group in NYC.__
 - I have experience in developing and implementing novel algorithms to solve multiphysics CFD problems, using both data-driven deep learning techniques and classical mixed finite element methods (FEM).
+- Currently, I work in the quantitative analysis group specializing in pricing and risk management of credit derrivatives in the risk-neutral framework, specifically in LATAM emerging markets. 
 - I love working on new challenging models and implementing them, while collaborating with others. 
 - Always looking for new collaborators and interesting projects. 
 #### Languages I work with: 
@@ -36,6 +36,8 @@
 #### Mathematical Skills: 
 - __Numerical Analysis__.  
 - __Math Finance and Stochastic Calculus__.  
+- __Risk Neutral Pricing and Hedging of Credit derrivatives__.
+- __Bonds, CDS, XCCY swaps__.
 - __CFD__ Computational Fluid Dynamics.   
 - __HPC__ Parallel computing.  
 - __ML,DL__.  
