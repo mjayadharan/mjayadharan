@@ -6,7 +6,7 @@
 ](https://github.com/mjayadharan/MMMFE-ST-DD) 
 
 <p>
-  <h1 align="center"><b>Hello there 👋, I'm Manu </b></h1>
+  <h1 align="center"><b>Hey 👋, I'm Manu </b></h1>
 </p>
 
 
@@ -23,7 +23,7 @@
 <br>
 
 
-## A little bit about me..  
+## My background in a nutshell.  
 ---------------------
 - __I am a computational scientist with expertise in numerical analysis, high performance computing, and scientific machine learning. I currently work as a Quantitative Analyst for the Citigroup's Credit Quant group in NYC.__
 - I have experience in developing and implementing novel algorithms to solve multiphysics CFD problems, using both data-driven deep learning techniques and classical mixed finite element methods (FEM).
