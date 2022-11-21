@@ -25,7 +25,7 @@
 
 ## My background in a nutshell.  
 ---------------------
-- __I am a computational scientist with expertise in numerical analysis, high performance computing, and scientific machine learning. I currently work as a Quantitative Analyst for the Citigroup's Credit Quant group in NYC.__
+- __I am a computational scientist with expertise in numerical analysis, high performance computing, and scientific machine learning. I am interested in application of computational and stastistical learning methods to a wide range of scientific fields including natural sciences, geosciences, physical systems etc.  I currently work as a Quantitative Research Analyst for the Citigroup's Credit Quant group in NYC.__
 - I have experience in developing and implementing novel algorithms to solve multiphysics CFD problems, using both data-driven deep learning techniques and classical mixed finite element methods (FEM).
 - Currently, I work as a credit quant specializing in pricing and risk management of credit derrivatives in the risk-neutral framework, specifically in LATAM emerging markets. 
 - I love working on new challenging models and implementing them, while collaborating with others. 
@@ -35,13 +35,17 @@
 - __C++__ for high performance scientific computing and simulations.
 #### Mathematical Skills: 
 - __Numerical Analysis__.  
+- __HPC__ Parallel computing.  
+- __Advanced Probability, Statistics__.  
+- __ML,DL__.  
+- __Biocomputing__.
 - __Math Finance and Stochastic Calculus__.  
 - __Risk Neutral Pricing and Hedging of Credit derrivatives__.
 - __Bonds, CDS, XCCY swaps__.
 - __CFD__ Computational Fluid Dynamics.   
-- __HPC__ Parallel computing.  
-- __ML,DL__.  
-- __Advanced Probability, Statistics__.  
+
+
+
 
 #### Software packages I currently use:
 - __ML/ Data Science__: Numpy, Pandas, Jupyter, Keras-Tensorflow2
