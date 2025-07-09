@@ -62,8 +62,9 @@
 ## Checkout some of my recent projects and preprints:  
 ---------------------
 ### Machine Learning:  
-1)  __[Fluidlearn](https://github.com/mjayadharan/FluidLearn)__: A python based package to solve  fluid flow PDEs using deep learning techniques. 
-2) __[Hands on practical ML projects](https://github.com/mjayadharan/ML_mini_projects)__:
+1)  __[DaeFinder](https://github.com/mjayadharan/DAE-FINDER_dev)__: DaeFinder is a Python package designed to discover Differential Algebraic Equations (DAEs) from noisy data using sparse optimization framework. 
+2)  __[Fluidlearn](https://github.com/mjayadharan/FluidLearn)__: A python based package to solve  fluid flow PDEs using deep learning techniques. 
+3) __[Hands on practical ML projects](https://github.com/mjayadharan/ML_mini_projects)__:
    - [Keras-TensorFlow2 based examples](https://github.com/mjayadharan/ML_mini_projects/tree/master/2_Keras:TensorFLow2)
    - [PyTorch based examples](https://github.com/mjayadharan/ML_mini_projects/tree/master/4_PyTorch/01_MNIST_Example)
    - [Scikit-learn based examples](https://github.com/mjayadharan/ML_mini_projects/tree/master/1_scikit-learn-projects)
