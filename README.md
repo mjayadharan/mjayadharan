@@ -25,7 +25,7 @@
 
 ## My background in a nutshell.  
 ---------------------
-- __I am a computational scientist with expertise in numerical analysis, high performance computing, and scientific machine learning. I am interested in application of computational and stastistical learning methods to a wide range of scientific fields including natural sciences, geosciences, physical systems etc.  I currently work as a Quantitative Research Analyst for the Citigroup's Credit Quant group in NYC.__
+- I am an applied mathematician with research interests spanning a wide range of quantitative scientific fields. My interests include developing numerical methods for data-driven inverse problems involving differential equations, high-performance solvers for PDEs, and financial modeling. I have a Ph.D. in Mathematics with a focus on numerical analysis and high-performance computing for PDEs. I worked on Wall Street as a quant after completing my PhD before deciding to pursue a career in research.
 - I have experience in developing and implementing novel algorithms to solve multiphysics CFD problems, using both data-driven deep learning techniques and classical mixed finite element methods (FEM).
 - Currently, I work as a credit quant specializing in pricing and risk management of credit derrivatives in the risk-neutral framework, specifically in LATAM emerging markets. 
 - I love working on new challenging models and implementing them, while collaborating with others. 
@@ -34,7 +34,9 @@
 - __Python__ for general purpose programming and ML software development.
 - __C++__ for high performance scientific computing and simulations.
 #### Mathematical Skills: 
-- __Numerical Analysis__.  
+- __Numerical Analysis__.
+- __Inverse PDE__.
+- __Data Driven Differential Equation Discovery__.
 - __HPC__ Parallel computing.  
 - __Advanced Probability, Statistics__.  
 - __ML,DL__.  
