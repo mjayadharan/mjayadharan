@@ -39,7 +39,7 @@
 - __HPC__ Parallel computing.  
 - __Advanced Probability, Statistics__.  
 - __ML,DL__.
-- - __Bonds, CDS, XCCY swaps__.
+- __Bonds, CDS, XCCY swaps__.
 - __CFD__ Computational Fluid Dynamics.  
 - __Math Finance and Stochastic Calculus__.  
 - __Risk Neutral Pricing and Hedging of Credit derrivatives__.
