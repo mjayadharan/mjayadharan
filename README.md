@@ -35,16 +35,15 @@
 - __C++__ for high performance scientific computing and simulations.
 #### Mathematical Skills: 
 - __Numerical Analysis__.
-- __Inverse PDE__.
 - __Data Driven Differential Equation Discovery__.
 - __HPC__ Parallel computing.  
 - __Advanced Probability, Statistics__.  
-- __ML,DL__.  
-- __Biocomputing__.
+- __ML,DL__.
+- - __Bonds, CDS, XCCY swaps__.
+- __CFD__ Computational Fluid Dynamics.  
 - __Math Finance and Stochastic Calculus__.  
 - __Risk Neutral Pricing and Hedging of Credit derrivatives__.
-- __Bonds, CDS, XCCY swaps__.
-- __CFD__ Computational Fluid Dynamics.   
+ 
 
 
 
