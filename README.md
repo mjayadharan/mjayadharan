@@ -1,90 +1,74 @@
-
-
-![](https://komarev.com/ghpvc/?username=your-github-mjayadharan&label=PROFILE+VIEWS)
-
-  [![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/35903705/97630615-3d917180-1a06-11eb-89ba-b0061ecd3954.gif)
-](https://github.com/mjayadharan/MMMFE-ST-DD) 
-
-<p>
-  <h1 align="center"><b>Hey 👋, I'm Manu </b></h1>
-</p>
-
-
+<h1 align="center">Hey 👋, I'm Manu</h1>
 
 <p align="center">
-<br>
-<a href="https://www.linkedin.com/in/manu-jayadharan/"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:manu.jayadharan@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-  <a href="https://www.researchgate.net/profile/Manu_Jayadharan"><img height="40px"  src="https://user-images.githubusercontent.com/35903705/97633429-792e3a80-1a0a-11eb-84d4-42cbfac54a92.png" alt="ResearchGate" /></a>&nbsp;
-
-
+  Applied mathematician and computational scientist<br>
+  Postdoctoral Fellow, Engineering Sciences &amp; Applied Mathematics, Northwestern University
 </p>
 
-<br>
+<p align="center">
+  <a href="https://mjayadharan.github.io/"><img src="https://img.shields.io/badge/Website-mjayadharan.github.io-68f?style=for-the-badge" alt="Website"/></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=s4yYujAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/manu-jayadharan/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:manu.jayadharan@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://orcid.org/0009-0007-9287-3325"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+</p>
 
+---
 
-## My background in a nutshell.  
----------------------
-- I am an applied mathematician with research interests spanning a wide range of quantitative scientific fields. My interests include developing numerical methods for data-driven inverse problems involving differential equations, high-performance solvers for PDEs, and financial modeling. I have a Ph.D. in Mathematics with a focus on numerical analysis and high-performance computing for PDEs. I worked on Wall Street as a quant after completing my PhD before deciding to pursue a career in research.
-- I have experience in developing and implementing novel algorithms to solve multiphysics CFD problems, using both data-driven deep learning techniques and classical mixed finite element methods (FEM).
-- Currently, I work as a credit quant specializing in pricing and risk management of credit derrivatives in the risk-neutral framework, specifically in LATAM emerging markets. 
-- I love working on new challenging models and implementing them, while collaborating with others. 
-- Always looking for new collaborators and interesting projects. 
-#### Languages I work with: 
-- __Python__ for general purpose programming and ML software development.
-- __C++__ for high performance scientific computing and simulations.
-#### Mathematical Skills: 
-- __Numerical Analysis__.
-- __Data Driven Differential Equation Discovery__.
-- __HPC__ Parallel computing.  
-- __Advanced Probability, Statistics__.  
-- __ML,DL__.
-- __Bonds, CDS, XCCY swaps__.
-- __CFD__ Computational Fluid Dynamics.  
-- __Math Finance and Stochastic Calculus__.  
-- __Risk Neutral Pricing and Hedging of Credit derrivatives__.
- 
+I work at the intersection of **scientific machine learning, dynamical systems, and numerical methods**, with a focus on developing algorithms to discover real-world models. I design numerically stable, data-driven methods for discovering and solving differential equations and implement them as open-source software.
 
+- 🔭 **Currently:** Postdoctoral Fellow at Northwestern University (with Dr. Niall Mangan), affiliated with the NSF–Simons National Institute for Theory and Mathematics in Biology (NITMB) and the Trienens Institute for Sustainability and Energy.
+- 💼 **Previously:** Quantitative Analyst (AVP) at Citigroup, NYC (2021–2023), building large-scale C++ pricing and risk libraries for credit derivatives. PhD in Mathematics, University of Pittsburgh (2021).
+- 📦 **Maintainer of** [`dae-finder`](https://pypi.org/project/dae-finder/), a model-agnostic Python package for discovering differential-algebraic equations from noisy data.
+- 🤖 **New for Fall 2026:** teaching *Agentic AI for Scientific Computing*, a project-based graduate course at Northwestern on the principled, validated use of frontier AI agents (Claude Code, Codex/GPT, Gemini) in scientific computing.
+- 🤝 Always open to new collaborators and interesting projects.
 
+## What I work on
 
+| | |
+|---|---|
+| **Equation discovery from data** | Stable, interpretable algorithms for learning differential-algebraic equations from noisy measurements: [SODAs](https://doi.org/10.1098/rspa.2025.0201) (*Proc. Royal Society A*, 2026), demonstrated on chemical reaction networks, the IEEE-39 power grid, and battery models. |
+| **Inverse problems & ill-conditioning** | Why dictionary-based model discovery fails (diagnosed via inverse-problem theory) and how to fix it: QR-based library orthogonalization, multiple-shooting parameter estimation for stiff systems. |
+| **Multiphysics PDE solvers** | Finite-element solvers for coupled Poisson–Nernst–Planck electrochemical systems; domain decomposition for Biot poroelasticity; MPI-parallel implementations. |
+| **Agentic AI for scientific computing** | Protocols, validation frameworks, and reusable agentic skill sets so AI-assisted scientific computing is verifiable, reproducible, and accessible on lower-cost models. |
 
-#### Software packages I currently use:
-- __ML/ Data Science__: Numpy, Pandas, Jupyter, Keras-Tensorflow2
-- __Visualization__: Matplotlib, ParaView, gnuplot.
-- __Scientific computing__: deal.II, FreeFem++, phoenix.
-- __My favorite editors and IDEs__: Eclipse, Jupyter notebook, Colab, Emacs.
-#### Languages and packages I used to work with: 
-- Fortran, Matlab, PyTorch, Scikit-learn
+<p align="center">
+  <a href="https://github.com/mjayadharan/BiotDD">
+    <img src="https://user-images.githubusercontent.com/35903705/97790134-68adc980-1b9c-11eb-9431-ec5bfcc6da36.gif" alt="Poroelastic flow simulation computed with BiotDD" width="480">
+  </a>
+  <br>
+  <em>Poroelastic flow simulated with my MPI-parallel solver <a href="https://github.com/mjayadharan/BiotDD">BiotDD</a></em>
+</p>
 
-<br>
-   
-## Checkout some of my recent projects and preprints:  
----------------------
-### Machine Learning:  
-1)  __[DaeFinder](https://github.com/mjayadharan/DAE-FINDER_dev)__: DaeFinder is a Python package designed to discover Differential Algebraic Equations (DAEs) from noisy data using sparse optimization framework. 
-2)  __[Fluidlearn](https://github.com/mjayadharan/FluidLearn)__: A python based package to solve  fluid flow PDEs using deep learning techniques. 
-3) __[Hands on practical ML projects](https://github.com/mjayadharan/ML_mini_projects)__:
-   - [Keras-TensorFlow2 based examples](https://github.com/mjayadharan/ML_mini_projects/tree/master/2_Keras:TensorFLow2)
-   - [PyTorch based examples](https://github.com/mjayadharan/ML_mini_projects/tree/master/4_PyTorch/01_MNIST_Example)
-   - [Scikit-learn based examples](https://github.com/mjayadharan/ML_mini_projects/tree/master/1_scikit-learn-projects)
+## Featured projects
 
-### High performance scientific computing:  
-1)  __[Space-time-DD](https://github.com/mjayadharan/MMMFE-ST-DD__: A C++ based fluid flow simulator using multiscale space-time domain.
-2) __[Poroelastic flow simulator](https://github.com/mjayadharan/BiotDD)__: C++ based poroelastic fluid flow simulator using MPI. 
+| Project | What it is | Stack |
+|---|---|---|
+| [**DAE-FINDER**](https://github.com/mjayadharan/DAE-FINDER_dev) ([PyPI](https://pypi.org/project/dae-finder/)) | Model-agnostic package for discovering differential-algebraic equations from data via sparse optimization; scikit-learn-compatible `.fit()`/`.score()` interface | Python |
+| [**FluidLearn**](https://github.com/mjayadharan/FluidLearn) | Physics-informed neural networks for fluid-flow PDEs, packaged for domain scientists | Python, TensorFlow/Keras |
+| [**MMMFE-ST-DD**](https://github.com/mjayadharan/MMMFE-ST-DD) | Parabolic-PDE solver using space-time multiscale mortar mixed finite elements with non-matching subdomain grids | C++, deal.II |
+| [**BiotDD**](https://github.com/mjayadharan/BiotDD) | Poroelastic flow simulator using MPI-based non-overlapping domain decomposition | C++, MPI, deal.II |
+| [**deal.II**](https://www.dealii.org/authors.html) | Contributor to the widely used open-source C++ finite element library | C++ |
 
-### Other open-source contributions:
-1) __[FEM package deal.II](https://www.dealii.org/authors.html)__: Most of the HPC packages I have written uses deal.II and I am also one of the contributors to this popular open-source FEM package. 
+## Selected publications
 
-### Recent preprint:
-1) __[Parallel computations to solve poroelastic flow](https://arxiv.org/abs/2010.15353)__: __M. Jayadharan__, E. Khattatov, I. Yotov, Domain decomposition and partitioning methods for mixed finite element discretization of the Biot system of poroelasticity, [arxiv math.NA, 2010.15353](https://arxiv.org/abs/2010.15353).
+- **M. Jayadharan**, N. M. Mangan, et al., "SODAs: Sparse Optimization for Discovery of Differential-Algebraic Systems from Data," *Proc. Royal Society A*, 2026. [DOI](https://doi.org/10.1098/rspa.2025.0201)
+- **M. Jayadharan**, I. Yotov, "Multiscale mortar mixed finite element methods for the Biot system of poroelasticity," *Comput. Methods Appl. Mech. Engrg.*, 2025.
+- **M. Jayadharan**, M. Kern, M. Vohralík, I. Yotov, "A space-time multiscale mortar mixed finite element method for parabolic equations," *SIAM J. Numer. Anal.*, 2023.
+- Y. Feng, N. M. Mangan, **M. Jayadharan**† (senior author), "Ill-conditioning in dictionary-based dynamic-equation learning," under review at *SIAM J. Life Sciences*, 2026.
 
+Full list on [my website](https://mjayadharan.github.io/publications/) and [Google Scholar](https://scholar.google.com/citations?user=s4yYujAAAAAJ&hl=en).
 
+## Toolbox
 
+**Languages:** Python · C++ · Julia (previously MATLAB, Fortran)
+**Scientific ML:** SINDy-family methods · neural ODEs · PINNs · sparse optimization
+**Numerical methods:** FEM · domain decomposition · space-time methods · multiple shooting
+**FEM / HPC:** deal.II · FEniCS · FreeFem++ · MPI · Slurm
+**Data science:** NumPy · Pandas · SciPy · SymPy · scikit-learn · TensorFlow/Keras
 
+---
 
-## Thank You-🙏🏼
-
-
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mjayadharan&label=Profile+views" alt="Profile views">
+</p>
